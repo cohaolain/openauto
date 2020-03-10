@@ -23,7 +23,7 @@ color: rgb(238, 238, 236);</string>
      <rect>
       <x>290</x>
       <y>30</y>
-      <width>281</width>
+      <width>341</width>
       <height>41</height>
      </rect>
     </property>
@@ -166,7 +166,7 @@ color: rgb(238, 238, 236);</string>
      </rect>
     </property>
     <property name="text">
-     <string>Wireless connection</string>
+     <string>Wireless</string>
     </property>
     <property name="autoDefault">
      <bool>false</bool>
@@ -191,7 +191,7 @@ color: rgb(238, 238, 236);</string>
      <bool>false</bool>
     </property>
     <property name="text">
-     <string/>
+     <string>Cursor</string>
     </property>
     <property name="autoDefault">
      <bool>false</bool>
@@ -200,7 +200,7 @@ color: rgb(238, 238, 236);</string>
      <bool>false</bool>
     </property>
     <property name="flat">
-     <bool>true</bool>
+     <bool>false</bool>
     </property>
    </widget>
   </widget>
